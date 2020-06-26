@@ -31,15 +31,15 @@ The to-do-app is an app where a user can add their daily task or list of thing t
 # Screenshots of TodoApp
 <img src="Screenshot_1592322105.png" width="350" height="600" title="Github Logo">
 <img src="Screenshot_1592322116.png" width="350" height="600" title="Github Logo">
-<img src="Screenshot_1592322139.png" width="350" height="600" title="Github Logo">
+<img src="Screenshot_1593157159.png" width="350" height="600" title="Github Logo">
 <img src="Screenshot_1592322145.png" width="350" height="600" title="Github Logo">
 <img src="Screenshot_1592322152.png" width="350" height="600" title="Github Logo">
 <img src="Screenshot_1592322159.png" width="350" height="600" title="Github Logo">
 <img src="Screenshot_1592322164.png" width="350" height="600" title="Github Logo">
-<img src="Screenshot_1592322175.png" width="350" height="600" title="Github Logo">
-<img src="Screenshot_1592322184.png" width="350" height="600" title="Github Logo">
+<img src="Screenshot_1593157170.png" width="350" height="600" title="Github Logo">
+<img src="Screenshot_1593157118.png" width="350" height="600" title="Github Logo">
 <img src="Screenshot_1592322206.png" width="350" height="600" title="Github Logo">
-<img src="Screenshot_1592322213.png" width="350" height="600" title="Github Logo">
-<img src="Screenshot_1592322222.png" width="350" height="600" title="Github Logo">
+<img src="Screenshot_1593157327.png" width="350" height="600" title="Github Logo">
+<img src="Screenshot_1593157515.png" width="350" height="600" title="Github Logo">
 <img src="Screenshot_1592322230.png" width="350" height="600" title="Github Logo">
 
