@@ -31,7 +31,7 @@ The to-do-app is an app where a user can add their daily task or list of thing t
 # Screenshots of TodoApp
 <img src="Screenshot_1592322105.png" width="350" height="600" title="Github Logo">
 <img src="Screenshot_1592322116.png" width="350" height="600" title="Github Logo">
-<img src="Screenshot_1593157159.PNG" width="350" height="600" title="Github Logo">
+<img src="Screenshot_1593157159.png" width="350" height="600" title="Github Logo">
 <img src="Screenshot_1592322145.png" width="350" height="600" title="Github Logo">
 <img src="Screenshot_1592322152.png" width="350" height="600" title="Github Logo">
 <img src="Screenshot_1592322159.png" width="350" height="600" title="Github Logo">
